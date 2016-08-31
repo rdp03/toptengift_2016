@@ -20,7 +20,7 @@
 
 <div class="td_repeat1">
 <div class="moblie_logo"><img src="images/mobile_top_logo.png"  alt=""/></div>
-<div class="go_index_btn"><a href="index.php">回首頁</a></div>
+<div class="go_index_btn"><a href="index.php">回首頁test</a></div>
 </div>
 
 <div class="mobile_nav">
